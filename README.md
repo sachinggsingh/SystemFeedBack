@@ -29,7 +29,7 @@
 SystemFeedBack/
 │── model/         # Database models
 │── public/        # Static files (CSS, JS)
-│── views/         # EJS templates for UI
+│── views/         # HTML templates for UI
 │── server.js      # Main server file
 │── package.json   # Dependencies and scripts
 └── .gitignore     # Ignored files (e.g., node_modules)
