@@ -67,7 +67,8 @@ The app should now be running on **`http://localhost:5000`** 🎉
 
 ## 📸 Screenshots
 
-🚀 *[Add screenshots of your project UI here]*  
+🚀 ![Screenshot 2025-02-22 231624](https://github.com/user-attachments/assets/1f4ac4be-2b80-4b97-8af3-dce983edf228)
+
 
 ---
 
